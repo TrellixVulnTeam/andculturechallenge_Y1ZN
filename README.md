@@ -1,5 +1,5 @@
 # Andculture Challenge Submission
-This project was created to indicate proficiency in react, express, scss, and mongoose. This project was created as an alternative to [Andculture Development Challenge](https://github.com/AndcultureCode/challenge-node-react) due to technical difficulties preventing connection establishment between the react peoject and MongoDB Atlas. Despite being an alternative, this project should exhibit similar levels of proficiency of the technologies mentioned above. This project meets all the base goals of [Andculture Development Challenge](https://github.com/AndcultureCode/challenge-node-react).
+This project was created to indicate proficiency in react, express, bootstrap, scss, and mongoose. This project was created as an alternative to [Andculture Development Challenge](https://github.com/AndcultureCode/challenge-node-react) due to technical difficulties preventing connection establishment between the react peoject and MongoDB Atlas. Despite being an alternative, this project should exhibit similar levels of proficiency of the technologies mentioned above. This project meets all the base goals of [Andculture Development Challenge](https://github.com/AndcultureCode/challenge-node-react).
 
 ## Backend Setup
 
