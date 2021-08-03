@@ -1,0 +1,7 @@
+@mixin headerRem {
+	font-size: 2rem!important;
+}
+
+h3 {
+	@include headerRem;
+}
